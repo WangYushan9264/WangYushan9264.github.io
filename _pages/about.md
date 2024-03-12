@@ -16,8 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span class='anchor' id='news'></span>
-
 
 I'm an Associate Professor at NUDT. I received my PhD degree in Robotics at the University of Bonn in 2022, my Master degree in Robotics at the National University of Defense Technology in 2017, and Bachelor degree in Electrical Engineering and Automation at the Hunan University in 2015. I'm a member of the Technical Committee of RoboCup Rescue Robot League (RRL), and AE for IROS, ICRA and RA-L.
 
