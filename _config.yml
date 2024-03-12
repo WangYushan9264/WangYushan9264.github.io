@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xieyuanli Chen"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Associate Professor"
 repository               : "WangYushan9264/chenxieyuanli_st1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/my-photo.png"
   bio              : "National University of Defense Technology"
   location         : "Changsha, China"
-  employer         : "Associate Professor"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en"
   email            : "chenxieyuanli@hotmail.com"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Chen-Xieyuanli"
+  github           : "Chen-Xieyuanli"
   google_plus      :
   keybase          :
   instagram        :
