@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Xieyuanli Chen"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "WangYushan9264/chenxieyuanli_st1.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  name             : "Xieyuanli Chen"
+  avatar           : "images/my-photo.png"
+  bio              : "National University of Defense Technology"
+  location         : "Changsha, China"
+  employer         : "Associate Professor"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "chenxieyuanli@hotmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Xieyuanli-Chen"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  # e.g., "github username"
+  github           : "https://github.com/Chen-Xieyuanli"
   google_plus      :
   keybase          :
   instagram        :
