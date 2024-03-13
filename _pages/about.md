@@ -171,7 +171,7 @@ M. Arora, L. Wiesmann, **X. Chen\***, and C. Stachniss
 
 [SegContrast: 3D Point Cloud Feature Representation Learning through Self-supervised Segment Discrimination](http://www.ipb.uni-bonn.de/pdfs/nunes2022ral-icra.pdf)
 
-H. Dong, **X. Chen\***, and C. Stachniss
+L. Nunes, R. Marcuzzi, **X. Chen**, J. Behley, and C. Stachniss
 
 [**Code**](https://github.com/PRBonn/segcontrast)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
