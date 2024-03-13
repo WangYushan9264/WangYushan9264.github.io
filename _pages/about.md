@@ -19,9 +19,8 @@ redirect_from:
 
 I'm an Associate Professor at NUDT. I received my PhD degree in Robotics at the University of Bonn in 2022, my Master degree in Robotics at the National University of Defense Technology in 2017, and Bachelor degree in Electrical Engineering and Automation at the Hunan University in 2015. I'm a member of the Technical Committee of RoboCup Rescue Robot League (RRL), and AE for IROS, ICRA and RA-L.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> You can find more details below:
-
-<a href="cv/chen_cv.pdf">[Extended CV]</a>&nbsp;|&nbsp;<a href="cv/chen_cv-cn.pdf">[中文简历]</a>.
+My research interest includes SLAM, Localization, Scene Understanding and Robot Learning. I have published more than 50 papers at the top international Robotics and AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>2600+</span></strong></a> I aim to explore the promising applications in Autonomous Vehicle and Rescue Robtics. You can find more details below:
+<a href="cv/chen_cv.pdf">[Extended CV]</a>&nbsp;<a href="cv/chen_cv-cn.pdf">[中文简历]</a>.
 
 
 # 🔥 News
@@ -45,6 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+- *2022* Distinction PhD degree [<a href="https://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf">Pdf</a>][<a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/10228">Website</a>] - summa cum laude (highest grade) - Uni-Bonn
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
