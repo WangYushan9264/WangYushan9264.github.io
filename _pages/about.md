@@ -19,8 +19,7 @@ redirect_from:
 
 I'm an Associate Professor at NUDT. I received my PhD degree in Robotics at the University of Bonn in 2022, my Master degree in Robotics at the National University of Defense Technology in 2017, and Bachelor degree in Electrical Engineering and Automation at the Hunan University in 2015. I'm a member of the Technical Committee of RoboCup Rescue Robot League (RRL), and AE for IROS, ICRA and RA-L.
 
-My research interest includes SLAM, Localization, Scene Understanding and Robot Learning. I have published more than 50 papers at the top international Robotics and AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>2600+</span></strong></a> I aim to explore the promising applications in Autonomous Vehicle and Rescue Robtics. You can find more details below:
-<a href="cv/chen_cv.pdf">[Extended CV]</a>&nbsp;<a href="cv/chen_cv-cn.pdf">[中文简历]</a>.
+My research interest includes SLAM, Localization, Scene Understanding and Robot Learning. I have published more than 50 papers at the top international Robotics and AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>2600+</span></strong></a>. I keep exploring the promising applications in Autonomous Vehicle and Rescue Robtics. You can find more details here:<a href="cv/chen_cv.pdf">[Extended CV]</a>&nbsp;<a href="cv/chen_cv-cn.pdf">[中文简历]</a>.
 
 
 # 🔥 News
@@ -28,6 +27,21 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+<a href="https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en">Full list of publications in Google Scholar</a>.
+\* indicates the corresponding author.
+## PhD thesis:
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">University of Bonn</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[LiDAR-Based Semantic Perception for Autonomous Vehicles](http://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf)
+
+**X.Chen**
+
+[**Website**](https://hdl.handle.net/20.500.11811/10228)
+
+- Abstract: introduce the article and experiment excutations.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,13 +58,42 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2022* Distinction PhD degree [<a href="https://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf">Pdf</a>][<a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/10228">Website</a>] - summa cum laude (highest grade) - Uni-Bonn
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* Distinction PhD degree [<a href="https://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf">Pdf</a>][<a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/10228">Website</a>] - summa cum laude (highest grade), Uni-Bonn
+- *2018-2022* PhD Scholarship, CSC
+- *2021* RSS Pioneer [<a href="http://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf">Pdf</a>][<a href="http://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer-poster.pdf">Poster</a>][<a href="https://sites.google.com/view/rsspioneers2021/participants">Website</a>], RSS
+- *2020* Finalist of Best System Paper, RSS
+- *2022* Best-in-Class Exploration and Mapping Scenario, RoboCup
+- *2022* Best-in-Class Search and Inspect, RoboCup
+- *2021* Best-in-Class Exploration and Mapping, RoboCup
+- *2017* In recognition of Exceptional Performance as Associate Judge, RoboCup
+- *2017* Winner of Rescue Robot Competition, SSRR
+- *2016* Best‑in‑Class Small Robot Mobility, RoboCup
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Working Experience
+- *2023 - Present*, Associate Editor - IEEE IROS
+- *2022 - Present*, Associate Editor - IEEE ICRA
+- *2022 - Present*, Associate Editor - IEEE RA-L
+- *2019 - 2022*, Research Assistant - StachnissLab
+- *2019 - Present*, Technical Committee - RoboCup RRL
+- *2021 - 2022*, Organizing Committee - RSS Pioneer
+- *2021 - 2022*, Programme Committee - RoboCup Symposium
+- *2017 - 2019*, Organizing Committee - RoboCup RRL
+
+## Teaching Experience
+- *2020* Master Project: Visual LiDAR Odometry - Projet MSC
+- *2020* Advanced Techniques in Mobile Sensing and Robotics Course - Lecture MSC
+- *2019* Master Project: Semantic Place Categorization - Projet MSC
+- *2019* Sensors and State Estimation Course - Lecture MSC
+
+## Responsible Supervisor for Student
+- *2022* Deep Learning‑based Pole Extractor for Long‑term LiDAR Global Localization - Master Thesis, Hao Dong (<a href="https://sites.google.com/view/dong-hao/">homepage</a>)
+- *2022* LiDAR‑based Long‑term Place Recognition - Intern Project, Junyi Ma (<a href="https://bit-mjy.github.io/">homepage</a>)
+- *2022* LiDAR‑based Moving Object Segmentation - Intern Project, Jiadai Sun (<a href="https://sunjiadai.xyz/">homepage</a>)
+- *2021* Static Map Generation from Point Cloud Data - Intern Project, Mehul Arora (<a href="https://scholar.google.com/citations?user=pLnOYLMAAAAJ&hl=en">homepage</a>)
+- *2021* Pole‑based LiDAR Localization - Intern Project, Hao Dong (<a href="https://sites.google.com/view/dong-hao/">homepage</a>)
+- *2021* LiDAR Visual Odometry - Intern Project, Andrzej Reinke (<a href="https://scholar.google.de/citations?user=WiY7oFIAAAAJ&hl=en">homepage</a>)
+- *2020* Extracting Color and Semantic Information for LiDAR Point Clouds from Images - Bachelor Thesis, Verena Fitzke
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
