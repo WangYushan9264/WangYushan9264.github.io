@@ -22,15 +22,15 @@ I'm an Associate Professor at NUDT. I received my PhD degree in Robotics at the 
 My research interest includes SLAM, Localization, Scene Understanding and Robot Learning. I have published more than 50 papers at the top international Robotics and AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>2600+</span></strong></a>. I keep exploring the promising applications in Autonomous Vehicle and Rescue Robtics. You can find more details here:<a href="cv/chen_cv.pdf">[Extended CV]</a>&nbsp;<a href="cv/chen_cv-cn.pdf">[中文简历]</a>.
 
 
-# 🔥 News
+# 🎉 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 <a href="https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en">Full list of publications in Google Scholar</a>.
 \* indicates the corresponding author.
-## PhD thesis:
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">University of Bonn</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## PhD thesis
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">University of Bonn</div><img src='images/PhD_thesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [LiDAR-Based Semantic Perception for Autonomous Vehicles](http://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf)
@@ -39,7 +39,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 
 [**Website**](https://hdl.handle.net/20.500.11811/10228)
 
-- Abstract: introduce the article and experiment excutations.
+- The main contributions of this thesis are novel approaches that exploit semantic information to improve the performance of LiDAR perception tasks such as SLAM and global localization for autonomous vehicles.
 </div>
 </div>
 
@@ -57,7 +57,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖:trophy: Honors and Awards
+# 🏆 Honors and Awards
 - *2022* Distinction PhD degree [<a href="https://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf">Pdf</a>][<a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/10228">Website</a>] - summa cum laude (highest grade), Uni-Bonn
 - *2018-2022* PhD Scholarship, CSC
 - *2021* RSS Pioneer [<a href="http://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf">Pdf</a>][<a href="http://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer-poster.pdf">Poster</a>][<a href="https://sites.google.com/view/rsspioneers2021/participants">Website</a>], RSS
