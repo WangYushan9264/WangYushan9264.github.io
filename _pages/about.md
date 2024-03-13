@@ -19,7 +19,9 @@ redirect_from:
 
 I'm an Associate Professor at NUDT. I received my PhD degree in Robotics at the University of Bonn in 2022, my Master degree in Robotics at the National University of Defense Technology in 2017, and Bachelor degree in Electrical Engineering and Automation at the Hunan University in 2015. I'm a member of the Technical Committee of RoboCup Rescue Robot League (RRL), and AE for IROS, ICRA and RA-L.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> You can find more details below:
+
+<a href="cv/chen_cv.pdf">[Extended CV]</a>&nbsp;|&nbsp;<a href="cv/chen_cv-cn.pdf">[中文简历]</a>.
 
 
 # 🔥 News
