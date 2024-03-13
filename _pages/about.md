@@ -23,8 +23,8 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 
 
 # 🎉 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🔥 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🔥 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 <a href="https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en">Full list of publications in Google Scholar</a>.
@@ -40,6 +40,55 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 [**Website**](https://hdl.handle.net/20.500.11811/10228)
 
 - The main contributions of this thesis are novel approaches that exploit semantic information to improve the performance of LiDAR perception tasks such as SLAM and global localization for autonomous vehicles.
+</div>
+</div>
+
+## Selected peer-reviewed journal articles
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/auto-mos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automatic Labeling to Generate Training Data for Online LiDAR-Based Moving Object Segmentation](http://arxiv.org/pdf/2201.04501)
+
+**X.Chen**, B. Mersch, L. Nunes, R. Marcuzzi, I. Vizzo, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/auto-mos)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autonomous Robots 2022</div><img src='images/overlapnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OverlapNet: A Siamese Network for Computing LiDAR Scan Similarity with Applications to Loop Closing and Localization](http://www.ipb.uni-bonn.de/pdfs/chen2021auro.pdf)
+
+**X.Chen**, T. Läbe, A. Milioto, T. Röhling, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/OverlapNet)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2021</div><img src='images/LiDAR-MOS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](http://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf)
+
+**X.Chen**, S. Li, B. Mersch, L. Wiesmann, J. Gall, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/LiDAR-MOS) [**Video**](https://youtu.be/NHvsYhk4dhw)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/overlaptransformer.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://arxiv.org/pdf/2203.03397.pdf)
+
+J. Ma, J. Zhang, J. Xu, R. Ai, W. Gu, and **X.Chen\***
+
+[**Code**](https://github.com/haomo-ai/OverlapTransformer)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
