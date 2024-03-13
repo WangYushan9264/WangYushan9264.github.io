@@ -179,6 +179,195 @@ L. Nunes, R. Marcuzzi, **X. Chen**, J. Behley, and C. Stachniss
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2021</div><img src='images/paper/keypointMatching.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Keypoint Matching for Point Cloud Registration using Multiplex Dynamic Graph Attention Networks](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/shi2021ral.pdf)
+
+C. Shi, **X. Chen**, K. Huang, J. Xiao, H. Lu, and C. Stachniss
+
+[**Code**](https://github.com/chenghao-shi/MDGAT-matcher)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/paper/minet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-scale Interaction for Real-time LiDAR Data Segmentation on an Embedded Platform](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/li2022ral.pdf)
+
+S. Li, **X. Chen**, Y. Liu, D. Dai, C. Stachniss, and J. Gall
+
+[**Code**](https://github.com/sj-li/MINet)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2021</div><img src='images/paper/deepcompression.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Compression for Dense Point Cloud Maps](http://www.ipb.uni-bonn.de/pdfs/wiesmann2021ral.pdf)
+
+L. Wiesmann, A. Milioto, **X. Chen**, C. Stachniss, and J. Behley
+
+[**Code**](https://github.com/PRBonn/deep-point-map-compression)[**Video**](https://youtu.be/fLl9lTlZrI0)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+## Selected Peer-reviewed Conference Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2020</div><img src='images/paper/overlapnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OverlapNet: Loop Closing for LiDAR-based SLAM](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf)
+
+**X. Chen**, T. Läbe, A. Milioto, T. Röhling, O. Vysotska, A. Haag, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/OverlapNet/)[**Video**](https://youtu.be/YTfliBco6aw)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/paper/range-mcl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Range Image-based LiDAR Localization for Autonomous Vehicles](http://www.ipb.uni-bonn.de/pdfs/chen2021icra.pdf)
+
+**X. Chen**, I. Vizzo, T. Läbe, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/range-mcl)[**Video**](https://youtu.be/hpOPXX9oPqI)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2020</div><img src='images/paper/overlap-localization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning an Overlap-based Observation Model for 3D LiDAR Localization](http://www.ipb.uni-bonn.de/pdfs/chen2020iros.pdf)
+
+**X. Chen**, T. Läbe, L. Nardi, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/overlap_localization)[**Video**](https://www.youtube.com/watch?v=BozPqy_6YcE)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2019</div><img src='images/paper/suma.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SuMa++: Efficient LiDAR-based Semantic SLAM](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf)
+
+**X. Chen**, A. Milioto, E. Palazzolo, P. Giguère, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/semantic_suma/)[**Video**](https://youtu.be/uo3ZuLuFAzk)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/paper/ickTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ICK-Track: A Category-Level 6-DoF Pose Tracker Using Inter-Frame Consistent Keypoints for Aerial Manipulation](https://www.researchgate.net/publication/366614462_ICK-Track_A_Category-Level_6-DoF_Pose_Tracker_Using_Inter-Frame_Consistent_Keypoints_for_Aerial_Manipulation)
+
+J. Sun, Y. Wang, M. Feng, D. Wang, J. Zhao, and **X. Chen\***
+
+[**Code**](https://github.com/S-JingTao/ICK-Track)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/paper/motionSeg3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation](https://arxiv.org/pdf/2207.02201.pdf)
+
+J. Sun, Y. Dai, X. Zhang, J. Xu, R. Ai, W. Gu, and **X. Chen**
+
+[**Code**](https://github.com/haomo-ai/MotionSeg3D)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2021</div><img src='images/paper/point-cloud-pre.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Self-supervised Point Cloud Prediction Using 3D Spatio-temporal Convolutional Networks](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/mersch2021corl.pdf)
+
+B. Mersch, **X. Chen**, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/point-cloud-prediction)[**Video**](https://youtu.be/-pSZpPgFAso)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/paper/mutiverseOdometry.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Simple But Effective Redundant Odometry for Autonomous Vehicles](http://www.ipb.uni-bonn.de/pdfs/reinke2021icra.pdf)
+
+A. Reinke, **X. Chen**, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/MutiverseOdometry)[**Video**](https://youtu.be/zLpnPEyDKfM)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/paper/puma.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Poisson Surface Reconstruction for LiDAR Odometry and Mapping](http://www.ipb.uni-bonn.de/pdfs/vizzo2021icra.pdf)
+
+I. Vizzo, **X. Chen**, N. Chebrolu, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/puma)[**Video**](https://youtu.be/7yWtYWaO5Nk)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECMR 2021</div><img src='images/paper/dynamic-point-removal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mapping the Static Parts of Dynamic Scenes from 3D LiDAR Point Clouds Exploiting Ground Segmentation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2021ecmr.pdf)
+
+M. Arora, L. Wiesmann, **X. Chen\***, and C. Stachniss
+
+[**Code**](https://github.com/humbletechy/Dynamic-Point-Removal)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECMR 2021</div><img src='images/paper/pole-localization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Online Range Image-based Pole Extractor for Long-term LiDAR Localization in Urban Environments](https://www.ipb.uni-bonn.de/pdfs/dong2021ecmr.pdf)
+
+H. Dong, **X. Chen\***, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/pole-localization)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='images/paper/pole-localization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient localisation using images and openstreetmaps](http://www.ipb.uni-bonn.de/pdfs/zhou2021iros.pdf)
+
+Mengjie Zhou, **X. Chen**, Noe Samano, Cyrill Stachniss, and Andrew Calway
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 # 🏆 Honors and Awards
 - *2022* Distinction PhD degree [<a href="https://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf">Pdf</a>][<a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/10228">Website</a>] - summa cum laude (highest grade), Uni-Bonn
 - *2018-2022* PhD Scholarship, CSC
