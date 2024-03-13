@@ -118,7 +118,7 @@ J. Ma, J. Zhang, J. Xu, R. Ai, W. Gu, and **X.Chen\***
 - *2017* Winner of Rescue Robot Competition, SSRR
 - *2016* Best‑in‑Class Small Robot Mobility, RoboCup
 
-# 📖 Educations
+# 📖 Academic Experience
 ## Working Experience
 - *2023 - Present*, Associate Editor - IEEE IROS
 - *2022 - Present*, Associate Editor - IEEE ICRA
