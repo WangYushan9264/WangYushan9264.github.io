@@ -44,7 +44,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 </div>
 
 ## Selected Peer-reviewed Journal Articles
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/auto-mos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/paper/auto-mos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automatic Labeling to Generate Training Data for Online LiDAR-Based Moving Object Segmentation](http://arxiv.org/pdf/2201.04501)
@@ -56,7 +56,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autonomous Robots 2022</div><img src='images/overlapnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autonomous Robots 2022</div><img src='images/paper/overlapnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OverlapNet: A Siamese Network for Computing LiDAR Scan Similarity with Applications to Loop Closing and Localization](http://www.ipb.uni-bonn.de/pdfs/chen2021auro.pdf)
@@ -68,7 +68,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2021</div><img src='images/LiDAR-MOS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2021</div><img src='images/paper/LiDAR-MOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](http://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf)
@@ -80,7 +80,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/overlaptransformer.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/paper/overlaptransformer.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://arxiv.org/pdf/2203.03397.pdf)
