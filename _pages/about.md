@@ -19,7 +19,7 @@ redirect_from:
 
 I'm an Associate Professor at NUDT. I received my PhD degree in Robotics at the University of Bonn in 2022, my Master degree in Robotics at the National University of Defense Technology in 2017, and Bachelor degree in Electrical Engineering and Automation at the Hunan University in 2015. I'm a member of the Technical Committee of RoboCup Rescue Robot League (RRL), and AE for IROS, ICRA and RA-L.
 
-My research interest includes SLAM, Localization, Scene Understanding and Robot Learning. I have published more than 50 papers at the top international Robotics and AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>2600+</span></strong></a>. I keep exploring the promising applications in Autonomous Vehicle and Rescue Robtics. You can find more details here:<a href="cv/chen_cv.pdf">[Extended CV]</a>&nbsp;<a href="cv/chen_cv-cn.pdf">[中文简历]</a>.
+My research interest includes SLAM, Localization, Scene Understanding and Robot Learning. I have published more than 50 papers at the top international Robotics and AI conferences with total <a href='https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>2000+</span></strong></a>. I keep exploring the promising applications in Autonomous Vehicle and Rescue Robtics. You can find more details here:<a href="cv/chen_cv.pdf">[Extended CV]</a>&nbsp;<a href="cv/chen_cv-cn.pdf">[中文简历]</a>.
 
 
 # 🎉 News
@@ -30,7 +30,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 <a href="https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en">Full list of publications in Google Scholar</a>.
 \* indicates the corresponding author.
 ## PhD thesis
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">University of Bonn</div><img src='images/PhD_thesis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">University of Bonn</div><img src='images/paper/PhD_thesis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [LiDAR-Based Semantic Perception for Autonomous Vehicles](http://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf)
@@ -80,7 +80,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/paper/overlaptransformer.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/paper/overlaptransformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://arxiv.org/pdf/2203.03397.pdf)
