@@ -35,7 +35,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
   
 [LiDAR-Based Semantic Perception for Autonomous Vehicles](http://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf)
 
-**X.Chen**
+**X. Chen**
 
 [**Website**](https://hdl.handle.net/20.500.11811/10228)
 
@@ -49,7 +49,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 
 [Automatic Labeling to Generate Training Data for Online LiDAR-Based Moving Object Segmentation](http://arxiv.org/pdf/2201.04501)
 
-**X.Chen**, B. Mersch, L. Nunes, R. Marcuzzi, I. Vizzo, J. Behley, and C. Stachniss
+**X. Chen**, B. Mersch, L. Nunes, R. Marcuzzi, I. Vizzo, J. Behley, and C. Stachniss
 
 [**Code**](https://github.com/PRBonn/auto-mos)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -61,7 +61,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 
 [OverlapNet: A Siamese Network for Computing LiDAR Scan Similarity with Applications to Loop Closing and Localization](http://www.ipb.uni-bonn.de/pdfs/chen2021auro.pdf)
 
-**X.Chen**, T. Läbe, A. Milioto, T. Röhling, J. Behley, and C. Stachniss
+**X. Chen**, T. Läbe, A. Milioto, T. Röhling, J. Behley, and C. Stachniss
 
 [**Code**](https://github.com/PRBonn/OverlapNet)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -73,7 +73,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 
 [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](http://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf)
 
-**X.Chen**, S. Li, B. Mersch, L. Wiesmann, J. Gall, J. Behley, and C. Stachniss
+**X. Chen**, S. Li, B. Mersch, L. Wiesmann, J. Gall, J. Behley, and C. Stachniss
 
 [**Code**](https://github.com/PRBonn/LiDAR-MOS) [**Video**](https://youtu.be/NHvsYhk4dhw)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -85,26 +85,99 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 
 [Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://arxiv.org/pdf/2203.03397.pdf)
 
-J. Ma, J. Zhang, J. Xu, R. Ai, W. Gu, and **X.Chen\***
+J. Ma, J. Zhang, J. Xu, R. Ai, W. Gu, and **X. Chen\***
 
 [**Code**](https://github.com/haomo-ai/OverlapTransformer)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2022</div><img src='images/paper/3DUIS.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Unsupervised Class-Agnostic Instance Segmentation of 3D LiDAR Data for Autonomous Vehicles](https://www.ipb.uni-bonn.de/pdfs/nunes2022ral-iros.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+L. Nunes, **X. Chen\***, R. Marcuzzi, A. Osep, L. Leal-Taixé, C. Stachniss, and Jens Behley
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/PRBonn/3DUIS)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIE 2022</div><img src='images/paper/SeqOT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SeqOT: Spatial-Temporal Transformer Networks for Place Recognition Using Sequential LiDAR Data](https://arxiv.org/pdf/2209.07951.pdf)
+
+J. Ma, **X. Chen**, J. Xu, and G. Xiong
+
+[**Code**](https://github.com/BIT-MJY/SeqOT)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/paper/7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fast Sparse LiDAR Odometry Using Self-Supervised Feature Selection on Intensity Images](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/guadagnino2022ral-iros.pdf)
+
+T. Guadagnino, **X. Chen**, M. Sodano, J. Behley, G. Grisetti, and C. Stachniss
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/paper/4DMOS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Receding Moving Object Segmentation in 3D LiDAR Data Using Sparse 4D Convolutions](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/mersch2022ral.pdf)
+
+B. Mersch, **X. Chen**, I. Vizzo, L. Nunes, J. Behley, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/4DMOS)[**Video**](https://youtu.be/5aWew6caPNQ)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAS 2022</div><img src='images/paper/pole-localization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments](https://arxiv.org/pdf/2208.07364.pdf)
+
+H. Dong, **X. Chen\***, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/pole-localization)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAS 2022</div><img src='images/paper/10.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Static Map Generation from 3D LiDAR Point Clouds Exploiting Ground Segmentation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2023jras.pdf)
+
+M. Arora, L. Wiesmann, **X. Chen\***, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/dynamic-point-removal)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/paper/11.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SegContrast: 3D Point Cloud Feature Representation Learning through Self-supervised Segment Discrimination](http://www.ipb.uni-bonn.de/pdfs/nunes2022ral-icra.pdf)
+
+H. Dong, **X. Chen\***, and C. Stachniss
+
+[**Code**](https://github.com/PRBonn/segcontrast)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 
 # 🏆 Honors and Awards
 - *2022* Distinction PhD degree [<a href="https://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf">Pdf</a>][<a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/10228">Website</a>] - summa cum laude (highest grade), Uni-Bonn
