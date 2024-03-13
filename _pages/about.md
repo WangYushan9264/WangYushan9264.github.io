@@ -43,7 +43,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 </div>
 </div>
 
-## Selected peer-reviewed journal articles
+## Selected Peer-reviewed Journal Articles
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/auto-mos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
