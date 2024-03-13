@@ -57,7 +57,7 @@ My research interest includes SLAM, Localization, Scene Understanding and Robot 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🎖 &#128219 Honors and Awards
 - *2022* Distinction PhD degree [<a href="https://www.ipb.uni-bonn.de/pdfs/chen2022phd.pdf">Pdf</a>][<a href="https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/10228">Website</a>] - summa cum laude (highest grade), Uni-Bonn
 - *2018-2022* PhD Scholarship, CSC
 - *2021* RSS Pioneer [<a href="http://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf">Pdf</a>][<a href="http://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer-poster.pdf">Poster</a>][<a href="https://sites.google.com/view/rsspioneers2021/participants">Website</a>], RSS
