@@ -358,7 +358,7 @@ H. Dong, **X. Chen\***, and C. Stachniss
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='images/paper/pole-localization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='images/paper/efficientLocalization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient localisation using images and openstreetmaps](http://www.ipb.uni-bonn.de/pdfs/zhou2021iros.pdf)
